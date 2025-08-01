@@ -1,42 +1,40 @@
-# 🛒 Amazon Clone – Full Stack E-Commerce Web Application
+# 🛒 Amazon Clone – Frontend E-Commerce Web App
 
-A fully responsive, feature-rich Amazon-style e-commerce web application developed using modern frontend and backend technologies. This clone replicates the user experience and core functionality of Amazon, including product browsing, cart management, and secure checkout.
+A fully responsive **Amazon-style e-commerce frontend clone** built using **React.js**, **Tailwind CSS**, and **JavaScript**. This project recreates Amazon’s user interface with product display, shopping cart functionality, and a simulated checkout experience. No backend is used — all features are implemented with frontend technologies only.
 
-
+---
 
 ## ✅ Key Features
 
-- 🧾 **User Authentication & Authorization**
-  - Signup / Login with email and password
-  - Session-based or token-based security (JWT)
-  
-- 🛍️ **Product Catalog**
-  - Dynamic product listing
-  - Product details with price, description, and rating
-  
-- 🛒 **Shopping Cart**
-  - Add/remove items
-  - Quantity updates
-  - Total price calculation
+- 🏠 **Homepage UI**
+  - Amazon-style header, banner, and navigation bar
+- 🛍️ **Product Listing**
+  - Static product cards with image, title, price, and rating
+- 🛒 **Cart Functionality**
+  - Add to cart / Remove from cart
+  - Real-time subtotal and quantity updates
+- 💳 **Checkout Page**
+  - Simulated order summary and subtotal display
+- 📱 **Fully Responsive Design**
+  - Mobile-first layout using Tailwind CSS
+- ⚛️ **React Hooks & State**
+  - State managed with `useState` and `useContext`
+- 🎯 **Pure Frontend**
+  - No backend, database, or API integration
 
-- 💳 **Checkout Flow**
-  - Order summary
-  - Simulated payment gateway integration
-  
-- 📱 **Responsive Design**
-  - Fully mobile-friendly using modern CSS / Tailwind / Flexbox
+---
 
+## 🛠️ Tech Stack
 
-
-## 🧰 Tech Stack
-
-| Layer         | Technologies Used                           |
-|---------------|---------------------------------------------|
-| **Frontend**  | React.js, Tailwind CSS, HTML5, JavaScript   |
-| **Backend**   | Node.js, Express.js                         |
-| **Database**  | MongoDB / Firebase (optional variant)       |
-| **Auth**      | Firebase Auth / JWT                         |
-| **Dev Tools** | Git, GitHub, VS Code, Postman               |
+| Category       | Tools / Libraries                   |
+|----------------|--------------------------------------|
+| **Languages**  | JavaScript (ES6+), HTML5             |
+| **Framework**  | React.js (Functional Components)     |
+| **Styling**    | Tailwind CSS                         |
+| **Icons**      | Heroicons, Font Awesome              |
+| **IDE**        | VS Code                              |
+| **Dev Tools**  | Git, GitHub, Node.js, NPM            |
+| **Build Tool** | Vite / CRA (depending on setup)      |
 
 ---
 
@@ -50,6 +48,5 @@ A fully responsive, feature-rich Amazon-style e-commerce web application develop
 |-----------|----------------|
 | ![Cart](https://github.com/user-attachments/assets/3c50a4d4-d962-4429-a61c-3041576ee56b) | ![Checkout](https://github.com/user-attachments/assets/b444cce5-60fc-45a7-be34-a2f824e081ba) |
 
-
-
+---
 
