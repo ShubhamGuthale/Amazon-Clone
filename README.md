@@ -52,5 +52,4 @@ A fully responsive, feature-rich Amazon-style e-commerce web application develop
 
 
 
-## 🗂️ Project Structure
 
